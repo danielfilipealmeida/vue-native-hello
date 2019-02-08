@@ -1,5 +1,5 @@
 <script>
-
+import vuex
 export default {
     
 }
